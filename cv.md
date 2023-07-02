@@ -21,7 +21,7 @@ With a strong foundation in programming concepts and a continuous desire to lear
 - Interface Design: Figma
 
 ## Work Experience
-## 1. Freelance, Web Developer, 2023-Current
+### Freelance, Web Developer, 2023-Current
 - Designed and developed websites for clients
 - Created responsive and cross-browser interfaces
 - Integrated with APIs and third-party services
